@@ -1,0 +1,22 @@
+{
+  "name": "nodeboard1",
+  "version": "1.0.0",
+  "description": "nodejs board test1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kim-hyoungjun/nodeBoard1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kim-hyoungjun/nodeBoard1/issues"
+  },
+  "homepage": "https://github.com/kim-hyoungjun/nodeBoard1#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
